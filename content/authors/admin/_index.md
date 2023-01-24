@@ -1,6 +1,5 @@
 ---
-title: Zhuan Li
-role: PhD candidate in Condensed Matter Physics
+avatar_filename: null
 bio: ""
 interests: []
 social: []
@@ -12,7 +11,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: PhD candidate in Condensed Matter Physics
 highlight_name: true
+title: Zhuan Li
 first_name: Alice
 email: ""
 ---
